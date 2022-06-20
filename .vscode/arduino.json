@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=8MHzatmega32U4",
+    "board": "SparkFun:avr:promicro",
+    "sketch": "ibt2_fan_control.ino",
+    "port": "COM8"
+}

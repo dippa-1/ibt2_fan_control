@@ -1,0 +1,1 @@
+avrdude.exe -p atmega32u4 -P COM8  -c avr109  -U flash:w:C:/Users/domin/AppData/Local/Temp/arduino_build_734623/ibt2_fan_control.ino.hex:i
